@@ -13,7 +13,7 @@ URL : http://www.goforevent.com
 
 ### TECHNICAL DETAILS
 
-Programming Languages : Python,C,Html,CSS,JavaScript,PHP
+Programming Languages : Python,C,Html,CSS,JavaScript,PHP <br>
 OS : Windows, Linux
 
 ### INTERESTS
